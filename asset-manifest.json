@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wedding/static/css/main.1dfb2adf.css",
+    "main.js": "/wedding/static/js/main.a6faec9e.js",
+    "static/media/daniil.jpg": "/wedding/static/media/daniil.749593c08ea8e473186a.jpg",
+    "static/media/we.jpg": "/wedding/static/media/we.3b67653c58c0c6394075.jpg",
+    "static/media/sport-car.png": "/wedding/static/media/sport-car.c1db923e4d691b6ea177.png",
+    "static/media/final.jpg": "/wedding/static/media/final.0ef303f78d749fadfbe9.jpg",
+    "static/media/fireworks.PNG": "/wedding/static/media/fireworks.8aab4ff25705770ebae8.PNG",
+    "static/media/flower.png": "/wedding/static/media/flower.efeb6612e94daae78a92.png",
+    "static/media/dance.png": "/wedding/static/media/dance.6ee3006a89a43dd427be.png",
+    "static/media/alina.jpg": "/wedding/static/media/alina.15f534641b0fd2e47e1f.jpg",
+    "static/media/couple.png": "/wedding/static/media/couple.7657baec938cc25f9d11.png",
+    "static/media/champagne-icon.webp": "/wedding/static/media/champagne-icon.fbcaf216d841323100a0.webp",
+    "index.html": "/wedding/index.html",
+    "main.1dfb2adf.css.map": "/wedding/static/css/main.1dfb2adf.css.map",
+    "main.a6faec9e.js.map": "/wedding/static/js/main.a6faec9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfb2adf.css",
+    "static/js/main.a6faec9e.js"
+  ]
+}
