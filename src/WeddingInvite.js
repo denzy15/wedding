@@ -135,9 +135,6 @@ export default function WeddingInvite() {
       </motion.div>
 
       <div style={{ margin: "30px 0" }}>
-        <p style={{ fontSize: "14px", fontFamily: "Pacifico, serif" }}>
-          С любовью, Даниил и Алина!
-        </p>
         <img src={coupleImg} alt="love" className="cnt-logo" />
       </div>
 
@@ -250,6 +247,9 @@ export default function WeddingInvite() {
       </div>
 
       <h5 className="h-italic">Будем вас ждать 26 апреля❤️</h5>
+      <p style={{ fontSize: "18px", fontFamily: "Marck Script, serif" }}>
+        С любовью, Даниил и Алина!
+      </p>
     </div>
   );
 }

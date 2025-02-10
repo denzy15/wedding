@@ -12,10 +12,10 @@ const RSVPForm = ({ setLoading }) => {
   const [text, setText] = useState("");
   const fullText = "Пожалуйста, подтвердите своё присутствие";
   const speed = 100;
-  const [startTyping, setStartTyping] = useState(false); // Запускать анимацию только когда видно
+  const [startTyping, setStartTyping] = useState(false);
 
   useEffect(() => {
-    if (!startTyping) return; // Не запускаем, пока элемент не в видимости
+    if (!startTyping) return;
 
     let i = 0;
     const interval = setInterval(() => {
@@ -106,7 +106,7 @@ const RSVPForm = ({ setLoading }) => {
       >
         <img src={whatsappIcon} alt="wpp" />
         <span>Написать</span>
-      </a>{" "}
+      </a>
     </div>
   );
 };
